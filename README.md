@@ -4,7 +4,7 @@ This Java-based client-server application is designed for user authentication an
 
 ## Overview
 This project is for completing the Network Programming subject provided in the 4th year of the Faculty of Computers & Information, Luxor University.
-the application comprises two primary components:
+The application comprises two primary components:
 
 ### Client Side
 
