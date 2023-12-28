@@ -1,9 +1,4 @@
 # Client-Server Application
-
-This Java-based client-server application is designed for user authentication and data submission from the client-side to the server-side. The communication is established via sockets, and the graphical interface is built using Java Swing.
-
----
-
 ## Overview
 This project is for completing the Network Programming subject provided in the 4th year of the Faculty of Computers & Information, Luxor University. The application comprises two primary components:
 
